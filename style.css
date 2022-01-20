@@ -446,6 +446,9 @@ html{
     align-items: center;
     margin-top: 8rem;
   }
+  html{
+    font-size:35%;
+  }
   .card{
     position: relative;
     height: 45rem;
